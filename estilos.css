@@ -1,0 +1,47 @@
+/* */
+/* Agregar la etiqueta sobre la que voy a trabajar y sus modificaciones
+van dentro de unas curly braces*/
+
+h1 {
+    /* Primero la propiedad a cambiar y psoteriormente el valor
+    finalizado en ; */
+    color: red;
+}
+
+p{
+    color: blue;
+    font-size: 20pt;
+}
+
+/* Selectores: es una etiqueta*/
+
+/*Selectores ID */
+#ejemplo-h1{
+    color: burlywood;
+    font-size: 30pt;
+}
+
+/*Selectores de clase */
+.euro{
+    color: chocolate;
+    font-size: 20pt;
+}
+
+.latam{
+    color:deepskyblue;
+    font-size: 30pt;
+}
+
+.fut-llanero{
+    color: gold;
+    font-size: 40pt;
+}
+
+/*Selectores Universal */
+*#warning {
+buscar todas las propiedades que le pueda modificar un texto en css
+}
+
+*#warning {
+
+}
